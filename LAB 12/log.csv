@@ -1,0 +1,9 @@
+Actor,Action,Item
+Bob,give,SATSUMA
+Bob,give,JAMAICA_CHERRY
+Bob,give,NET_MELON
+Bob,give,MINNEOLA
+Bob,give,CALABASH
+Bob,give,BOYSENBERRY
+Carl,take,MINNEOLA
+Carl,Error,MINNEOLA
